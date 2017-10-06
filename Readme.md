@@ -1,4 +1,4 @@
-##OS X Automation via JavaScript for use with iTunes.
+# OS X Automation via JavaScript for use with iTunes.
 
 Some Links to information on JavaScript for Mac OsX
 [Mac Automation Scripting Guide](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/index.html)
